@@ -1,0 +1,815 @@
+{
+  "niche": {
+    "cluster": "wall_art_prints",
+    "raw_score": 298.5,
+    "mentions": 0,
+    "single_word_hits": 0,
+    "season_boost": 1.0,
+    "world_state_boost": 199,
+    "competition_hits": 0,
+    "deliverability": 1.0,
+    "jack_signal_mult": 1.0,
+    "revenue_priority_mult": 1.0,
+    "etsy_market_mult": 0.68,
+    "etsy_verdict": "saturated",
+    "etsy_total_in_catalog": 20746625,
+    "etsy_median_favorers": 2,
+    "etsy_price_median": 9.0,
+    "visual_pulse_mult": 1.0,
+    "visual_pulse_brief": null,
+    "final_score": 203.0,
+    "evidence": [
+      {
+        "sub": "world_state",
+        "title": "trending: wall",
+        "score": 28,
+        "matched_kw": "wall art",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: also called wall art",
+        "score": 4,
+        "matched_kw": "wall art",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: print",
+        "score": 8,
+        "matched_kw": "print art",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: print",
+        "score": 8,
+        "matched_kw": "digital print",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: digital",
+        "score": 6,
+        "matched_kw": "digital print",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: print",
+        "score": 8,
+        "matched_kw": "art print",
+        "url": "internal://world_state/consensus"
+      }
+    ],
+    "_research_brief": {
+      "answer_preview": "Research blocked: grounded web research returned weak or unsupported evidence. Gate reasons: answer_grounding_ratio_0.0_below_0.85.",
+      "retrieved_chunks": 9,
+      "browsed_urls": [
+        "https://www.insightagent.app/trends/etsy-wall-art",
+        "https://printify.com/blog/leading-trends-for-etsy-sellers-in-2026/",
+        "https://analyzify.com/hub/top-selling-digital-artworks-prints-on-etsy",
+        "https://earnifyhub.com/blog/best-platforms-sell-digital-products-2026",
+        "https://listybox.com/blog/graduation-gift-print-on-demand-ideas-etsy-2026",
+        "https://www.printkk.com/blog/articles/wall-art-trends",
+        "https://www.alura.io/top-selling-etsy-items/prints",
+        "https://www.promptlesspress.com/blog-best-selling-digital-products-etsy-2026",
+        "https://www.reddit.com/r/Etsy/comments/1n3r9r0/is_it_worth_it_to_start_a_digital_downloads_shop/"
+      ],
+      "source": "grounded_research_rejected"
+    },
+    "_live_theme": {
+      "theme": "Butterfly",
+      "source": "pinterest_consensus",
+      "raw_count": 18,
+      "filter_match": true,
+      "all_candidates_top5": [
+        {
+          "phrase": "butterfly",
+          "raw_count": 18,
+          "filter_match": true,
+          "score": 18,
+          "kind": "single"
+        },
+        {
+          "phrase": "shirt butterfly",
+          "raw_count": 3,
+          "filter_match": true,
+          "score": 15,
+          "kind": "bigram"
+        },
+        {
+          "phrase": "pink",
+          "raw_count": 14,
+          "filter_match": true,
+          "score": 14,
+          "kind": "single"
+        },
+        {
+          "phrase": "green",
+          "raw_count": 14,
+          "filter_match": true,
+          "score": 14,
+          "kind": "single"
+        },
+        {
+          "phrase": "butterfly cut",
+          "raw_count": 2,
+          "filter_match": true,
+          "score": 10,
+          "kind": "bigram"
+        }
+      ],
+      "excluded_by_claims": []
+    }
+  },
+  "all_ranked": [
+    {
+      "cluster": "summer_decor",
+      "raw_score": 156.0,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.7,
+      "world_state_boost": 104,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 1.0,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 1.02,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 1027183,
+      "etsy_median_favorers": 26,
+      "etsy_price_median": 7.0,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 270.5,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: decor",
+          "score": 18,
+          "matched_kw": "summer decor",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: deco",
+          "score": 6,
+          "matched_kw": "summer decor",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "summer print",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "beach print",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "tropical print",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wall",
+          "score": 28,
+          "matched_kw": "summer wall",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "nursery_art",
+      "raw_score": 286.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.2,
+      "world_state_boost": 191,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 1.0,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.68,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 2048792,
+      "etsy_median_favorers": 1,
+      "etsy_price_median": 8.0,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 233.8,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: nursery",
+          "score": 22,
+          "matched_kw": "nursery art",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: room",
+          "score": 8,
+          "matched_kw": "baby room",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: baby",
+          "score": 6,
+          "matched_kw": "baby room",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: room",
+          "score": 8,
+          "matched_kw": "kids room art",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: nursery",
+          "score": 22,
+          "matched_kw": "nursery print",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "nursery print",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "wall_art_prints",
+      "raw_score": 298.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 199,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 1.0,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.68,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 20746625,
+      "etsy_median_favorers": 2,
+      "etsy_price_median": 9.0,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 203.0,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: wall",
+          "score": 28,
+          "matched_kw": "wall art",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: also called wall art",
+          "score": 4,
+          "matched_kw": "wall art",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "print art",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "digital print",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: digital",
+          "score": 6,
+          "matched_kw": "digital print",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "art print",
+          "url": "internal://world_state/consensus"
+        }
+      ],
+      "_research_brief": {
+        "answer_preview": "Research blocked: grounded web research returned weak or unsupported evidence. Gate reasons: answer_grounding_ratio_0.0_below_0.85.",
+        "retrieved_chunks": 9,
+        "browsed_urls": [
+          "https://www.insightagent.app/trends/etsy-wall-art",
+          "https://printify.com/blog/leading-trends-for-etsy-sellers-in-2026/",
+          "https://analyzify.com/hub/top-selling-digital-artworks-prints-on-etsy",
+          "https://earnifyhub.com/blog/best-platforms-sell-digital-products-2026",
+          "https://listybox.com/blog/graduation-gift-print-on-demand-ideas-etsy-2026",
+          "https://www.printkk.com/blog/articles/wall-art-trends",
+          "https://www.alura.io/top-selling-etsy-items/prints",
+          "https://www.promptlesspress.com/blog-best-selling-digital-products-etsy-2026",
+          "https://www.reddit.com/r/Etsy/comments/1n3r9r0/is_it_worth_it_to_start_a_digital_downloads_shop/"
+        ],
+        "source": "grounded_research_rejected"
+      },
+      "_live_theme": {
+        "theme": "Butterfly",
+        "source": "pinterest_consensus",
+        "raw_count": 18,
+        "filter_match": true,
+        "all_candidates_top5": [
+          {
+            "phrase": "butterfly",
+            "raw_count": 18,
+            "filter_match": true,
+            "score": 18,
+            "kind": "single"
+          },
+          {
+            "phrase": "shirt butterfly",
+            "raw_count": 3,
+            "filter_match": true,
+            "score": 15,
+            "kind": "bigram"
+          },
+          {
+            "phrase": "pink",
+            "raw_count": 14,
+            "filter_match": true,
+            "score": 14,
+            "kind": "single"
+          },
+          {
+            "phrase": "green",
+            "raw_count": 14,
+            "filter_match": true,
+            "score": 14,
+            "kind": "single"
+          },
+          {
+            "phrase": "butterfly cut",
+            "raw_count": 2,
+            "filter_match": true,
+            "score": 10,
+            "kind": "bigram"
+          }
+        ],
+        "excluded_by_claims": []
+      }
+    },
+    {
+      "cluster": "tshirt_designs",
+      "raw_score": 432.0,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 288,
+      "competition_hits": 0,
+      "deliverability": 0.6,
+      "jack_signal_mult": 0.4,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 1.02,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 1052271,
+      "etsy_median_favorers": 12,
+      "etsy_price_median": 3.5,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 105.8,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: shirt",
+          "score": 16,
+          "matched_kw": "t-shirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: design",
+          "score": 10,
+          "matched_kw": "t-shirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: sign",
+          "score": 8,
+          "matched_kw": "t-shirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: shirt",
+          "score": 16,
+          "matched_kw": "tshirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: design",
+          "score": 10,
+          "matched_kw": "tshirt design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: sign",
+          "score": 8,
+          "matched_kw": "tshirt design",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "planner_inserts",
+      "raw_score": 313.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 209,
+      "competition_hits": 0,
+      "deliverability": 0.9,
+      "jack_signal_mult": 0.4,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.85,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 692357,
+      "etsy_median_favorers": 4,
+      "etsy_price_median": 4.69,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 95.9,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: planner",
+          "score": 18,
+          "matched_kw": "printable planner",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "printable planner",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "printable planner",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "printable planner",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: planner",
+          "score": 18,
+          "matched_kw": "digital planner",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: digital",
+          "score": 6,
+          "matched_kw": "digital planner",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "graduation_printable",
+      "raw_score": 46.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 2.0,
+      "world_state_boost": 31,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 1.0,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 1.02,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 1514276,
+      "etsy_median_favorers": 22,
+      "etsy_price_median": 4.99,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 94.9,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "graduation printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "graduation printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "graduation printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: sign",
+          "score": 8,
+          "matched_kw": "grad sign",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "fathers_day_printable",
+      "raw_score": 34.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 2.5,
+      "world_state_boost": 23,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 0.7,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.51,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 2346149,
+      "etsy_median_favorers": 0,
+      "etsy_price_median": 4.05,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 30.8,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "father printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "father printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "father printable",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "coloring_pages",
+      "raw_score": 34.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 23,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 1.0,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.85,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 433092,
+      "etsy_median_favorers": 5,
+      "etsy_price_median": 2.49,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 29.3,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "printable coloring",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "printable coloring",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "printable coloring",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "stickers_printable",
+      "raw_score": 70.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 47,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "jack_signal_mult": 0.4,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 1.02,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 228088,
+      "etsy_median_favorers": 23,
+      "etsy_price_median": 1.99,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 28.8,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "printable sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "printable sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "printable sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: digital",
+          "score": 6,
+          "matched_kw": "digital sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: planner",
+          "score": 18,
+          "matched_kw": "planner sticker",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "mug_designs",
+      "raw_score": 61.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 41,
+      "competition_hits": 0,
+      "deliverability": 0.5,
+      "jack_signal_mult": 1.0,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.85,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 390311,
+      "etsy_median_favorers": 8,
+      "etsy_price_median": 3.97,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 26.1,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: design",
+          "score": 10,
+          "matched_kw": "mug design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: sign",
+          "score": 8,
+          "matched_kw": "mug design",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "mug printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "mug printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "mug printable",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    },
+    {
+      "cluster": "wedding_stationery",
+      "raw_score": 34.5,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.6,
+      "world_state_boost": 23,
+      "competition_hits": 0,
+      "deliverability": 0.95,
+      "jack_signal_mult": 0.4,
+      "revenue_priority_mult": 1.0,
+      "etsy_market_mult": 0.85,
+      "etsy_verdict": "saturated",
+      "etsy_total_in_catalog": 787864,
+      "etsy_median_favorers": 3,
+      "etsy_price_median": 12.0,
+      "visual_pulse_mult": 1.0,
+      "visual_pulse_brief": null,
+      "final_score": 17.8,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 8,
+          "matched_kw": "wedding printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 8,
+          "matched_kw": "wedding printable",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 7,
+          "matched_kw": "wedding printable",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    }
+  ],
+  "platform_decision": {
+    "platform": "etsy",
+    "reason": "top-ranked platform for wall_art_prints that has live creds",
+    "ready": true,
+    "blocker": null,
+    "ladder": [
+      "etsy",
+      "society6",
+      "gumroad",
+      "domain",
+      "gh_pages"
+    ]
+  },
+  "platform_blocker_ticket": null
+}
