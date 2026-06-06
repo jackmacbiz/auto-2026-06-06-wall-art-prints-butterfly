@@ -1,0 +1,34 @@
+{
+  "verified": false,
+  "checks": {
+    "mobile": {
+      "title": "Site not found \u00b7 GitHub Pages",
+      "h_overflow_px": 310,
+      "image_count": 0,
+      "broken_images": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "ok": false
+    },
+    "desktop": {
+      "title": "Site not found \u00b7 GitHub Pages",
+      "h_overflow_px": 0,
+      "image_count": 0,
+      "broken_images": 0,
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "ok": true
+    }
+  },
+  "screenshots": [
+    "/Users/jmacsmac/agent-os/prototypes/auto-2026-06-06-wall-art-prints-butterfly/qa/mobile.png",
+    "/Users/jmacsmac/agent-os/prototypes/auto-2026-06-06-wall-art-prints-butterfly/qa/desktop.png"
+  ],
+  "content_lint": {
+    "ok": true
+  }
+}
